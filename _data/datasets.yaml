@@ -1,8 +1,8 @@
 - dataset:
-  storage: "local"
+  storage: local
   name: "Sampling statistics from some fancy experiment"
   filetype: ".csv"
-  link: "dataset1.csv"
+  link: dataset1.csv
   filesize: "24 MB"
 
 - dataset:
