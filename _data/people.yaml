@@ -9,15 +9,15 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Dr. Osophila
-  link: "https://en.wikipedia.org/wiki/Drosophila"
-  title: Postdoctoral Scholar
+  name: Michael Anne Bolene
+  link: "https://www.instagram.com/michaelannebolene/"
+  title: G1 in Medical Engineering
   img: dr_osophila.jpg
-  institute: Bicoid Institute of Development
+  institute: Caltech
   other_info:
-     Email Address: "flyguy@university.edu"
+     Email Address: "mbolene@caltech.edu"
 - author:
-  name: Dr. Melanie O'Gaster
+  name: Dr. Melanie OGaster
   link: "https://en.wikipedia.org/wiki/Drosophila_melanogaster"
   title: Postdoctoral Scholar
   img: melanogaster.jpg
