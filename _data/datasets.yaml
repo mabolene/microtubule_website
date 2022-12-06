@@ -7,6 +7,6 @@
 
 - dataset:
   storage: local
-  name: Table of measurements from an old-school study for comparison
+  name: "Table of measurements from an old-school"
   filetype: ".csv"
   link: dataset2.csv
