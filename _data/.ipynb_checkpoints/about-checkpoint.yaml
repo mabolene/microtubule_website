@@ -1,0 +1,28 @@
+# ##############################################################################
+# ABOUT
+# ------------------------------------------------------------------------------
+# This data file contains all information that will be displayed on the home
+# page of your website. The fields `title` and `authors` are necessary. These
+# keys cannot be changed or they will not be displayed on the website. 
+#
+# The remainder of the fileds can be changed to fit your needs. The field name
+# (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
+# The content below will appear 
+
+title: >
+  Microtubule Catastrophe Distributions
+authors: >
+  Michael Anne Bolene, Malaika Cordeiro, Author 3, Author 4
+Abstract: >
+  We did lots of analysis on microtubule catastrophe data, including modeling with gamma distribution and 2-beta distibution
+Summary:  >
+  A short summary of your work goes here. Think "significance statement".
+  Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
+  plaid ut. Id aesthetic venmo, palo santo aliqua photo booth blue bottle.
+  Meditation non copper mug lomo glossier kombucha. Cred laboris meditation
+  poke sriracha street art letterpress food truck master cleanse adipisicing.
+  Hashtag affogato chambray vaporware subway tile, kogi helvetica ea tacos sint
+  brooklyn. Williamsburg waistcoat raclette seitan glossier messenger bag
+  dolore ramps, flannel magna nisi hot chicken elit pariatur kale chips.
+Acknowledgments: > 
+  Who helped you? Share the love! Huge thanks to all of the TAs and Justin!!
