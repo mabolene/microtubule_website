@@ -46,7 +46,7 @@ sidebar: true
 {% endif %}
 <a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
 {% endfor %}
-{% endif %}
 </div>
 </article>
 {% endfor %}
+{% endif %}
