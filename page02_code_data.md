@@ -41,9 +41,7 @@ sidebar: true
 
 <i>Necessary Data Sets </i><br/>
 {% for ds in fig.req %}
-{% if ds.storage == 'local' %}
-{% assign link = "{{site.url}}/{{site.baseurl}}/datasets/{{ds.link}}" %}
-{% endif %}
+{% assign link ={{site.url}}/{{site.baseurl}}/datasets/{{ds.link}} %}
 <a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
 {% endfor %}
 </div>
