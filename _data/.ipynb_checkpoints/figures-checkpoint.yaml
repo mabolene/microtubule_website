@@ -20,7 +20,3 @@
       title: Dataset 1
       storage: local 
       link: gardner_mt_catastrophe_only_tubulin.csv
-    - ds: 
-      storage: local
-      title: function package
-      link: microtubule_functions.py
