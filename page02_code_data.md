@@ -41,14 +41,10 @@ sidebar: true
 
 <i>Necessary Data Sets </i><br/>
 {% for ds in fig.req %}
-{% if ds.storage == 'local' %}
-{% assign link = "{{site.url}}/{{site.baseurl}}/datasets/{{ds.link}}" %}
-{% else %}
-{% assign link = "{{ds.link}}" %}
-{% endif %}
-<a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
+* [{{ds.name}}]({%if ds.storage !=
+  'remote'%}{{site.url}}/{{site.baseurl}}/datasets/{{ds.link}}{%
+  else%}{{ds.link}}{% endif %}) \| {% if ds.filetype %}(filetype:
+  {{ds.filetype}}){%endif%}{% if ds.filesize %}({{ds.filesize}}){%endif%}{%
+  if ds.storage == remote %} DOI: {{ds.DOI}}{%endif%}
 {% endfor %}
-</div>
-</article>
-{%endfor%}
 {% endif %}
