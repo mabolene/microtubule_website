@@ -41,9 +41,10 @@ sidebar: true
 
 <i>Necessary Data Sets </i><br/>
 {% for ds in fig.req %}
-{% assign link ={{site.url}}/{{site.baseurl}}/datasets/{{ds.link}} %}
-<a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
+* [**{{ds.title}}**]({{site.url}}/{{site.baseurl}}/datasets/{{ds.link}})
+  \| {{ds.title}}
 {% endfor %}
+
 </div>
 </article>
 {% endfor %}
