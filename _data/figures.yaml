@@ -8,13 +8,17 @@
       storage: local
       title: Dataset 1
       link: gardner_mt_catastrophe_only_tubulin.csv
+    - ds:
+      title: Package
+      storage: local 
+      link: microtubule_functions.py
 
 - fig:
   title: "Fig. 2: Activated charcoal tilde kombucha. "
   filename: fig2_MLEfits.py
   desc: 
       Used to generate Figure 2
-  pic: fig2.png
+  pic: fig2.jpg
   req:
     - ds:
       title: Dataset 1
