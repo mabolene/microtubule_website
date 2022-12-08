@@ -29,7 +29,7 @@ sidebar: true
 
 {% if site.data.figures %}
 ## Figure Generation
-<!-- <article class="post"> -->
+<article class="post">
 
 <!-- <a class="post-thumbnail" style="background-image: url({{site.url}}/{{site.baseurl}}/assets/img/{{fig.pic}})" href="{{site.baseurl}}/figures/{{fig.pdf}}"> </a>
  -->
@@ -44,7 +44,7 @@ sidebar: true
   \| {{ds.title}}
 {% endfor %}
 
-</div>
+<!-- </div> -->
 </article>
 {% endfor %}
 {% endif %}
