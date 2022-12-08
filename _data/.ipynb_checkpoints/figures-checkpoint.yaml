@@ -1,17 +1,18 @@
 - fig:
   title: "Fig. 1: ECDFs for tubulin concentrations"
   filename: fig1_EDA.py
-  desc:  Used to generate the figure1
+  desc:  
+      Used to generate the figure1
   pic: fig1.png
   req:
-    - ds: 
-      storage: "local"
-      title: "Dataset 1"
-      link: gardner_mt_catastrophe_only_tubulin.csv
-    - ds:
-      title: Package
-      storage: local 
-      link: microtubule_functions.py
+   - ds: 
+     storage: local
+     title: Dataset 1
+     link: gardner_mt_catastrophe_only_tubulin.csv
+   - ds:
+     title: Package
+     storage: local 
+     link: microtubule_functions.py
 
 - fig:
   title: "Fig. 2: Activated charcoal tilde kombucha. "
@@ -20,12 +21,12 @@
       Used to generate Figure 2
   pic: fig2.jpg
   req:
-    - ds:
-      title: "Dataset 1"
-      storage: "local" 
-      link: gardner_mt_catastrophe_only_tubulin.csv
-    - ds:
-      title: "Package"
-      storage: "local" 
-      link: microtubule_functions.py
+   - ds:
+     title: Dataset 1
+     storage: local
+     link: gardner_mt_catastrophe_only_tubulin.csv
+   - ds:
+     title: Package
+     storage: local
+     link: microtubule_functions.py
     
