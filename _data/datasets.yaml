@@ -2,11 +2,11 @@
   storage: local
   name: "Sampling statistics from some fancy experiment"
   filetype: ".csv"
-  link: dataset1.csv
-  filesize: "24 MB"
+  link: gardner_mt_catastrophe_only_tubulin.csv
+  filesize: "12 MB"
 
 - dataset:
   storage: local
-  name: "Table of measurements from an old-school"
-  filetype: ".csv"
-  link: dataset2.csv
+  name: "basically the code 'package'"
+  filetype: ".py"
+  link: microtubule_functions.py

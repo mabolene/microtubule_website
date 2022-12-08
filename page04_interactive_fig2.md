@@ -3,7 +3,7 @@ layout: page
 title: Interactive Figure 2
 permalink: interactive_b
 sidebar: true
-interactive: MAB_fig2.html
+interactive: Team18_fig2.html
 ---
 ---
 
