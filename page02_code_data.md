@@ -29,7 +29,14 @@ sidebar: true
 
 {% if site.data.figures %}
 ## Figure Generation
+<!-- <article class="post"> -->
 
+<!-- <a class="post-thumbnail" style="background-image: url({{site.url}}/{{site.baseurl}}/assets/img/{{fig.pic}})" href="{{site.baseurl}}/figures/{{fig.pdf}}"> </a>
+ -->
+<!-- <div class="post-content"> -->
+<b class="post-title"><a href="{{site.url}}/{{site.baseurl}}/software/{{fig.filename}}">{{fig.title}}</a></b>
+<p> {{fig.desc}}</p>
+    
 {% for fig in site.data.figures %}
 
 {% for ds in fig.req %}
