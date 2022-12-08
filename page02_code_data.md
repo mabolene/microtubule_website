@@ -44,6 +44,7 @@ sidebar: true
 {% if ds.storage == 'local' %}
 {% assign link = "{{site.url}}/{{site.baseurl}}/datasets/{{ds.link}}" %}
 {% endif %}
+{% endif %}
 <a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
 {% endfor %}
 </div>
