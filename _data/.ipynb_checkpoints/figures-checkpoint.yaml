@@ -5,14 +5,11 @@
       Used to generate the figure1
   pic: fig1.png
   req:
-   - ds: 
-     storage: local
-     title: Dataset 1
-     link: gardner_mt_catastrophe_only_tubulin.csv
-   - ds:
-     title: Package
-     storage: local 
-     link: microtubule_functions.py
+  - ds: 
+    storage: remote
+    title: Dataset 1
+    link: "http://data.caltech.edu"
+
 
 - fig:
   title: "Fig. 2: Activated charcoal tilde kombucha. "
