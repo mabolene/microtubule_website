@@ -1,10 +1,10 @@
 - script:
-  name: script1.py
+  name: fig1_EDA.py
   desc: >
     Super fancy script which calcualate some complicated stuff with
     well-documented code.
 - script:
-  name: script2.py
+  name: fig2_MLEfits.py
   desc: >
     Yet another script that does something-or-other.
 
