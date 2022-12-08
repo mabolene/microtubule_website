@@ -5,8 +5,8 @@
   pic: fig1.png
   req:
     - ds: 
-      storage: local
-      title: Dataset 1
+      storage: "local"
+      title: "Dataset 1"
       link: gardner_mt_catastrophe_only_tubulin.csv
     - ds:
       title: Package
@@ -21,11 +21,11 @@
   pic: fig2.jpg
   req:
     - ds:
-      title: Dataset 1
-      storage: local 
+      title: "Dataset 1"
+      storage: "local" 
       link: gardner_mt_catastrophe_only_tubulin.csv
     - ds:
-      title: Package
-      storage: local 
+      title: "Package"
+      storage: "local" 
       link: microtubule_functions.py
     
