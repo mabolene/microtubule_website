@@ -12,17 +12,10 @@
 title: >
   Microtubule Catastrophe Distributions
 authors: >
-  Michael Anne Bolene, Malaika Cordeiro, Author 3, Author 4
+  Michael Anne Bolene, Malaika Cordeiro
 Abstract: >
   We did lots of analysis on microtubule catastrophe data, including modeling with gamma distribution and 2-beta distibution
 Summary:  >
-  A short summary of your work goes here. Think "significance statement".
-  Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
-  plaid ut. Id aesthetic venmo, palo santo aliqua photo booth blue bottle.
-  Meditation non copper mug lomo glossier kombucha. Cred laboris meditation
-  poke sriracha street art letterpress food truck master cleanse adipisicing.
-  Hashtag affogato chambray vaporware subway tile, kogi helvetica ea tacos sint
-  brooklyn. Williamsburg waistcoat raclette seitan glossier messenger bag
-  dolore ramps, flannel magna nisi hot chicken elit pariatur kale chips.
+  By using graphical model assessment and AIC weights, we found that the Gamma distribution is a  better fit. This is evident in Interactive Figure 2. As you can see in that figure, for almost all concentrations involved, the predictive data matches the observed data better in the Gamma distribution than the mixture "2-beta" model.
 Acknowledgments: > 
-  Who helped you? Share the love! Huge thanks to all of the TAs and Justin!!
+  Huge thanks to all of the TAs and Justin!!

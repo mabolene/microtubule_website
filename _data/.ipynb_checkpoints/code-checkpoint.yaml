@@ -1,9 +1,8 @@
 - script:
   name: fig1_EDA.py
   desc: >
-    Super fancy script which calcualate some complicated stuff with
-    well-documented code.
+    Script needed to generate Interactive Figure 1. Must download the dataset and "package" script before running!
 - script:
   name: fig2_MLEfits.py
   desc: >
-    Yet another script that does something-or-other.
+    Script needed to generate Interactive Figure 1. Must download the dataset and "package" script before running!
